@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>html/template.html</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-Black.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-Bold.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-BoldItalic.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-ExtraLight.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-ExtraLightItalic.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-Italic.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-Light.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-LightItalic.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-Regular.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-SemiBold.ttf</file>
+        <file>fonts/Titillium_Web/TitilliumWeb-SemiBoldItalic.ttf</file>
+	<file>icons/inkscape/export/application.png</file>
+	<file>icons/material/add.svg</file>        
+	<file>icons/material/arrow_left_alt.svg</file>
+        <file>icons/material/arrow_right_alt.svg</file>
+	<file>icons/material/autorenew.svg</file>
+        <file>icons/material/check_circle.svg</file>
+	<file>icons/material/close.svg</file>
+	<file>icons/material/delete.svg</file>
+        <file>icons/material/edit.svg</file>
+	<file>icons/material/error.svg</file>
+        <file>icons/material/help.svg</file>
+        <file>icons/material/info.svg</file>
+        <file>icons/material/keyboard_arrow_down.svg</file>
+        <file>icons/material/keyboard_arrow_up.svg</file>
+	<file>icons/material/open_in_browser.svg</file>
+        <file>icons/material/person_add.svg</file>
+        <file>icons/material/person_edit.svg</file>
+	<file>icons/material/person_remove.svg</file>
+        <file>icons/material/person_search.svg</file>
+        <file>icons/material/print.svg</file>
+	<file>icons/material/save.svg</file>
+        <file>icons/material/settings.svg</file>
+	<file>icons/material/star.svg</file>
+	<file>icons/material/visibility.svg</file>
+	<file>icons/material/visibility_off.svg</file>
+        <file>icons/material/warning.svg</file>
+    </qresource>
+</RCC>
